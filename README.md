@@ -1,4 +1,4 @@
-# Family Chat
+# Local Chat
 
 Chat for the computers in your house — without the internet.
 
